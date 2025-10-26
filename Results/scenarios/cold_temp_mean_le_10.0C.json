@@ -1,0 +1,8 @@
+{
+  "metric": "temperature",
+  "station_stat": "mean",
+  "threshold_mode": "absolute",
+  "threshold_value": 10.0,
+  "tail": "low",
+  "min_coverage": 0.3
+}

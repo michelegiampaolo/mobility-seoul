@@ -1,0 +1,8 @@
+{
+  "metric": "heat_index",
+  "station_stat": "max",
+  "threshold_mode": "absolute",
+  "threshold_value": 27.0,
+  "tail": "high",
+  "min_coverage": 0.3
+}

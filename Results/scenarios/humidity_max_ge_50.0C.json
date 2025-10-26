@@ -1,0 +1,8 @@
+{
+  "metric": "humidity",
+  "station_stat": "max",
+  "threshold_mode": "absolute",
+  "threshold_value": 50.0,
+  "tail": "high",
+  "min_coverage": 0.3
+}

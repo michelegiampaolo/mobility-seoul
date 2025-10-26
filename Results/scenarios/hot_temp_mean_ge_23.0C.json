@@ -1,0 +1,10 @@
+{
+  "metric": "temperature",
+  "station_stat": "mean",
+  "threshold_mode": "absolute",
+  "threshold_value": 23.0,
+  "tail": "high",
+  "min_coverage": 0.3,
+  "aligned_to_model": true,
+  "include_history_days": true
+}

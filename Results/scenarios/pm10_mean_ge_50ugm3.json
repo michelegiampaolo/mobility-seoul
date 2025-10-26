@@ -1,0 +1,8 @@
+{
+  "metric": "pm10",
+  "station_stat": "mean",
+  "threshold_mode": "absolute",
+  "threshold_value": 50.0,
+  "tail": "high",
+  "min_coverage": 0.3
+}
