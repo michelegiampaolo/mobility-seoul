@@ -1,4 +1,4 @@
-Access data folder here!: https://drive.google.com/file/d/16W-CyM6SK8Fk3bk-3fXMtzCd8tAMjIWE/view?usp=sharing  
+Access data folder here: https://drive.google.com/file/d/16W-CyM6SK8Fk3bk-3fXMtzCd8tAMjIWE/view?usp=sharing  
 
 Source code for Geomatics MSc thesis:"A Graph Neural Network-based Approach to Predict the Effects if Urban Climate on Personal Mobility Choices in Seoul South Korea".  
 Find the full text here: _[I WILL INSERT TU DELFT REPOSITORY LINK]_
