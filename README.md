@@ -1,12 +1,12 @@
 Access data folder here: https://drive.google.com/file/d/16W-CyM6SK8Fk3bk-3fXMtzCd8tAMjIWE/view?usp=sharing  
 
-Source code for Geomatics MSc thesis:"A Graph Neural Network-based Approach to Predict the Effects if Urban Climate on Personal Mobility Choices in Seoul South Korea".  
+Source code for Geomatics MSc thesis:"A Graph Neural Network-based Approach to Predict the Effects of Urban Climate on Personal Mobility Choices in Seoul South Korea".  
 Find the full text here: https://resolver.tudelft.nl/uuid:c7dea111-2693-4889-a304-2ad135fe824f
   
 Results shown in the thesis report can be reproduced by running the following scripts:  
   
 - **mobility_model_with_climate.ipynb** to train and evaluate the STGNN variants.  
-(both urban and limate features will be used by default, you can toggle either with the USE_CLIMATE_FEATURES or USE_URBAN_FEATURES booleans).
+(both urban and climate features will be used by default, you can toggle either with the USE_CLIMATE_FEATURES or USE_URBAN_FEATURES booleans).
 - **losses_plots.ipynb** for the plotting of the training and validation loss curves.
 - **scenarios.ipynb** to run the time-of-day and weather scenarios shown in the results.
 - **scenarios_weather.ipynb** to alter or create new scenarios based on the S-DoT weather stations values.
